@@ -1,8 +1,8 @@
 # photo_joint
 
 - 拼接照片的结果为：  
- ![image](final.jpg)
- ![image](final2.jpg)
+ ![image](https://github.com/GFigure/Pyfun/blob/master/picture-cascading/createNevImg_0.5_past3_1.jpg?raw=true)
+ ![image](https://github.com/GFigure/Pyfun/blob/master/picture-cascading/final_0.5_past3.jpg)
 
 - 程序说明  
  - lib: PIL, numpy, numexpr, 
